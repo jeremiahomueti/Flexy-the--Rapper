@@ -1,0 +1,5 @@
+Flex-wrap determines whether our elements are going to wrap 
+around the main axis - a new line, if it's horizontal. 
+
+...or around a cross axis - a new column, if it's vertical.
+
